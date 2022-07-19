@@ -1,0 +1,640 @@
+/////////////////////////////////////////////////
+Model feature_size: 8, target_size: 2
+Training score:  0.9997592368155417
+Cross validation score: 0.9453285410381747
+/////////////////////////////////////////////////
+Model feature_size: 8, target_size: 3
+Training score:  0.9996656984438878
+Cross validation score: 0.921494018846524
+/////////////////////////////////////////////////
+Model feature_size: 8, target_size: 4
+Training score:  0.9995626559000627
+Cross validation score: 0.8979366444221898
+/////////////////////////////////////////////////
+Model feature_size: 12, target_size: 2
+Training score:  0.9999111493857673
+Cross validation score: 0.947567441229506
+/////////////////////////////////////////////////
+Model feature_size: 12, target_size: 3
+Training score:  0.9998801095575226
+Cross validation score: 0.928722472290315
+/////////////////////////////////////////////////
+Model feature_size: 12, target_size: 4
+Training score:  0.9998583068273936
+Cross validation score: 0.9059500508461591
+/////////////////////////////////////////////////
+Model feature_size: 12, target_size: 5
+Training score:  0.9998306746916603
+Cross validation score: 0.8886216345399423
+/////////////////////////////////////////////////
+Model feature_size: 16, target_size: 2
+Training score:  0.9999618348551697
+Cross validation score: 0.9476259035144021
+/////////////////////////////////////////////////
+Model feature_size: 16, target_size: 3
+Training score:  0.9999505164453867
+Cross validation score: 0.9248856235338029
+/////////////////////////////////////////////////
+Model feature_size: 16, target_size: 4
+Training score:  0.9999390628979548
+Cross validation score: 0.9193038465444735
+/////////////////////////////////////////////////
+Model feature_size: 16, target_size: 5
+Training score:  0.9999299503398509
+Cross validation score: 0.8963391357341562
+/////////////////////////////////////////////////
+Model feature_size: 20, target_size: 2
+Training score:  0.9999781680475961
+Cross validation score: 0.9519571767008195
+/////////////////////////////////////////////////
+Model feature_size: 20, target_size: 3
+Training score:  0.9999718806008628
+Cross validation score: 0.9349831238066838
+/////////////////////////////////////////////////
+Model feature_size: 20, target_size: 4
+Training score:  0.9999704811956409
+Cross validation score: 0.9098419810480689
+/////////////////////////////////////////////////
+Model feature_size: 20, target_size: 5
+Training score:  0.9999659233403619
+Cross validation score: 0.9066908248495592
+/////////////////////////////////////////////////
+Model feature_size: 20, target_size: 6
+Training score:  0.9999596766455543
+Cross validation score: 0.8904604045187344
+/////////////////////////////////////////////////
+Model feature_size: 24, target_size: 2
+Training score:  0.9999877571063616
+Cross validation score: 0.9497215852033716
+/////////////////////////////////////////////////
+Model feature_size: 24, target_size: 3
+Training score:  0.9999866695454326
+Cross validation score: 0.9335036205467983
+/////////////////////////////////////////////////
+Model feature_size: 24, target_size: 4
+Training score:  0.9999829351188041
+Cross validation score: 0.925591888416484
+/////////////////////////////////////////////////
+Model feature_size: 24, target_size: 5
+Training score:  0.9999787750910624
+Cross validation score: 0.9003174607483297
+/////////////////////////////////////////////////
+Model feature_size: 24, target_size: 6
+Training score:  0.9999787421692196
+Cross validation score: 0.8818370345969843
+/////////////////////////////////////////////////
+Model feature_size: 28, target_size: 2
+Training score:  0.9999923187779014
+Cross validation score: 0.948324755257241
+/////////////////////////////////////////////////
+Model feature_size: 28, target_size: 3
+Training score:  0.9999913314249159
+Cross validation score: 0.939769964723531
+/////////////////////////////////////////////////
+Model feature_size: 28, target_size: 4
+Training score:  0.9999891231006315
+Cross validation score: 0.9237501228017562
+/////////////////////////////////////////////////
+Model feature_size: 28, target_size: 5
+Training score:  0.9999896648690381
+Cross validation score: 0.9122840587697402
+/////////////////////////////////////////////////
+Model feature_size: 28, target_size: 6
+Training score:  0.9999876740955261
+Cross validation score: 0.9006384001776458
+/////////////////////////////////////////////////
+Model feature_size: 28, target_size: 7
+Training score:  0.9999853572227461
+Cross validation score: 0.8925376298969301
+/////////////////////////////////////////////////
+Model feature_size: 32, target_size: 2
+Training score:  0.999994482439506
+Cross validation score: 0.9493003878418996
+/////////////////////////////////////////////////
+Model feature_size: 32, target_size: 3
+Training score:  0.9999941402073697
+Cross validation score: 0.9366995828551278
+/////////////////////////////////////////////////
+Model feature_size: 32, target_size: 4
+Training score:  0.9999937329221807
+Cross validation score: 0.9254468711966284
+/////////////////////////////////////////////////
+Model feature_size: 32, target_size: 5
+Training score:  0.9999917456535569
+Cross validation score: 0.9093951937650802
+/////////////////////////////////////////////////
+Model feature_size: 32, target_size: 6
+Training score:  0.9999917767068357
+Cross validation score: 0.9065704035287508
+/////////////////////////////////////////////////
+Model feature_size: 32, target_size: 7
+Training score:  0.9999911463350319
+Cross validation score: 0.8805402690009317
+/////////////////////////////////////////////////
+Model feature_size: 36, target_size: 2
+Training score:  0.999996876731962
+Cross validation score: 0.950221937167663
+/////////////////////////////////////////////////
+Model feature_size: 36, target_size: 3
+Training score:  0.9999958630425964
+Cross validation score: 0.9370735638507917
+/////////////////////////////////////////////////
+Model feature_size: 36, target_size: 4
+Training score:  0.9999955746979117
+Cross validation score: 0.9229307853835291
+/////////////////////////////////////////////////
+Model feature_size: 36, target_size: 5
+Training score:  0.999995266328364
+Cross validation score: 0.9196387527113427
+/////////////////////////////////////////////////
+Model feature_size: 36, target_size: 6
+Training score:  0.9999949013357355
+Cross validation score: 0.8940948914853878
+/////////////////////////////////////////////////
+Model feature_size: 40, target_size: 2
+Training score:  0.9999976321826425
+Cross validation score: 0.9554731303978317
+/////////////////////////////////////////////////
+Model feature_size: 40, target_size: 3
+Training score:  0.9999972121973238
+Cross validation score: 0.9455354243292721
+/////////////////////////////////////////////////
+Model feature_size: 40, target_size: 4
+Training score:  0.9999967768783302
+Cross validation score: 0.9328822582269201
+/////////////////////////////////////////////////
+Model feature_size: 40, target_size: 5
+Training score:  0.9999964014117111
+Cross validation score: 0.9201232922373734
+/////////////////////////////////////////////////
+Model feature_size: 40, target_size: 6
+Training score:  0.9999962013898763
+Cross validation score: 0.9109930891160372
+/////////////////////////////////////////////////
+Model feature_size: 40, target_size: 7
+Training score:  0.9999956961409954
+Cross validation score: 0.9040708001097337
+/////////////////////////////////////////////////
+Model feature_size: 40, target_size: 8
+Training score:  0.9999955203656365
+Cross validation score: 0.8896442624463257
+/////////////////////////////////////////////////
+Model feature_size: 44, target_size: 2
+Training score:  0.9999982394952547
+Cross validation score: 0.9537820325067434
+/////////////////////////////////////////////////
+Model feature_size: 44, target_size: 3
+Training score:  0.9999978818850206
+Cross validation score: 0.9407518783362248
+/////////////////////////////////////////////////
+Model feature_size: 44, target_size: 4
+Training score:  0.9999976352819953
+Cross validation score: 0.9335791357343557
+/////////////////////////////////////////////////
+Model feature_size: 44, target_size: 5
+Training score:  0.9999971928143527
+Cross validation score: 0.9312717708661546
+/////////////////////////////////////////////////
+Model feature_size: 44, target_size: 6
+Training score:  0.999997006259841
+Cross validation score: 0.9019989260850229
+/////////////////////////////////////////////////
+Model feature_size: 44, target_size: 7
+Training score:  0.9999968845953475
+Cross validation score: 0.8983473519845394
+/////////////////////////////////////////////////
+Model feature_size: 48, target_size: 2
+Training score:  0.9999984160435046
+Cross validation score: 0.953424635776625
+/////////////////////////////////////////////////
+Model feature_size: 48, target_size: 3
+Training score:  0.9999981400453709
+Cross validation score: 0.9462881689117251
+/////////////////////////////////////////////////
+Model feature_size: 48, target_size: 4
+Training score:  0.9999982480172522
+Cross validation score: 0.9349090221352826
+/////////////////////////////////////////////////
+Model feature_size: 48, target_size: 5
+Training score:  0.9999980115332543
+Cross validation score: 0.9260486127047068
+/////////////////////////////////////////////////
+Model feature_size: 48, target_size: 6
+Training score:  0.9999980159593541
+Cross validation score: 0.9196859357803784
+/////////////////////////////////////////////////
+Model feature_size: 48, target_size: 7
+Training score:  0.9999976455460782
+Cross validation score: 0.912215486246353
+/////////////////////////////////////////////////
+Model feature_size: 48, target_size: 8
+Training score:  0.9999976055923072
+Cross validation score: 0.8993151302630905
+/////////////////////////////////////////////////
+Model feature_size: 52, target_size: 2
+Training score:  0.9999988363691013
+Cross validation score: 0.9606004732080193
+/////////////////////////////////////////////////
+Model feature_size: 52, target_size: 3
+Training score:  0.9999985641853448
+Cross validation score: 0.942469104654463
+/////////////////////////////////////////////////
+Model feature_size: 52, target_size: 4
+Training score:  0.9999984520827121
+Cross validation score: 0.9305970782475862
+/////////////////////////////////////////////////
+Model feature_size: 52, target_size: 5
+Training score:  0.9999984016978374
+Cross validation score: 0.9234386734118397
+/////////////////////////////////////////////////
+Model feature_size: 52, target_size: 6
+Training score:  0.9999983872511709
+Cross validation score: 0.9081026878610351
+/////////////////////////////////////////////////
+Model feature_size: 52, target_size: 7
+Training score:  0.9999981701858097
+Cross validation score: 0.9062876397553765
+/////////////////////////////////////////////////
+Model feature_size: 52, target_size: 8
+Training score:  0.9999981770208409
+Cross validation score: 0.891837449743569
+/////////////////////////////////////////////////
+Model feature_size: 56, target_size: 2
+Training score:  0.9999991235648011
+Cross validation score: 0.9573592539739071
+/////////////////////////////////////////////////
+Model feature_size: 56, target_size: 3
+Training score:  0.9999990126745142
+Cross validation score: 0.9450949960855555
+/////////////////////////////////////////////////
+Model feature_size: 56, target_size: 4
+Training score:  0.9999988763397956
+Cross validation score: 0.9395552715769429
+/////////////////////////////////////////////////
+Model feature_size: 56, target_size: 5
+Training score:  0.9999988411105626
+Cross validation score: 0.9217546339724574
+/////////////////////////////////////////////////
+Model feature_size: 56, target_size: 6
+Training score:  0.9999986500660151
+Cross validation score: 0.9204968171902091
+/////////////////////////////////////////////////
+Model feature_size: 56, target_size: 7
+Training score:  0.9999985679673857
+Cross validation score: 0.9121290157819019
+/////////////////////////////////////////////////
+Model feature_size: 56, target_size: 8
+Training score:  0.99999852810161
+Cross validation score: 0.902311499200059
+/////////////////////////////////////////////////
+Model feature_size: 56, target_size: 9
+Training score:  0.9999983746091959
+Cross validation score: 0.8904579372656021
+/////////////////////////////////////////////////
+Model feature_size: 60, target_size: 2
+Training score:  0.9999992704787222
+Cross validation score: 0.9506627328328207
+/////////////////////////////////////////////////
+Model feature_size: 60, target_size: 3
+Training score:  0.9999991635103367
+Cross validation score: 0.9448795943187029
+/////////////////////////////////////////////////
+Model feature_size: 60, target_size: 4
+Training score:  0.9999990547774823
+Cross validation score: 0.9345505459852695
+/////////////////////////////////////////////////
+Model feature_size: 60, target_size: 5
+Training score:  0.9999989956938347
+Cross validation score: 0.9296442387942573
+/////////////////////////////////////////////////
+Model feature_size: 60, target_size: 6
+Training score:  0.9999989841698885
+Cross validation score: 0.9179293097975169
+/////////////////////////////////////////////////
+Model feature_size: 60, target_size: 7
+Training score:  0.9999989313776094
+Cross validation score: 0.911666544493466
+/////////////////////////////////////////////////
+Model feature_size: 60, target_size: 8
+Training score:  0.9999988411155837
+Cross validation score: 0.9073089538937671
+/////////////////////////////////////////////////
+Model feature_size: 60, target_size: 9
+Training score:  0.9999987355735782
+Cross validation score: 0.8930772071990144
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 2
+Training score:  0.9999994360861539
+Cross validation score: 0.9577712659601945
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 3
+Training score:  0.9999992652309189
+Cross validation score: 0.9443919919194966
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 4
+Training score:  0.9999992563853267
+Cross validation score: 0.9385460170320531
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 5
+Training score:  0.9999992161390953
+Cross validation score: 0.9278156369901625
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 6
+Training score:  0.9999991306217176
+Cross validation score: 0.9119097136428604
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 7
+Training score:  0.9999990893278737
+Cross validation score: 0.9158089077596303
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 8
+Training score:  0.9999990103581926
+Cross validation score: 0.9065904839069356
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 9
+Training score:  0.999998965818096
+Cross validation score: 0.9040623196129991
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 10
+Training score:  0.9999989672163709
+Cross validation score: 0.9012342586018297
+/////////////////////////////////////////////////
+Model feature_size: 64, target_size: 11
+Training score:  0.9999989200630659
+Cross validation score: 0.888693899878858
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 2
+Training score:  0.9999993877370686
+Cross validation score: 0.9561273089492421
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 3
+Training score:  0.9999994175675976
+Cross validation score: 0.9441220697607533
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 4
+Training score:  0.9999993124449126
+Cross validation score: 0.9378618870820759
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 5
+Training score:  0.9999993525337392
+Cross validation score: 0.9300375398514145
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 6
+Training score:  0.9999992418992106
+Cross validation score: 0.9256862977233831
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 7
+Training score:  0.9999991520155077
+Cross validation score: 0.9159410432787102
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 8
+Training score:  0.9999991996490059
+Cross validation score: 0.903187061602523
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 9
+Training score:  0.9999991744752896
+Cross validation score: 0.9032485502952325
+/////////////////////////////////////////////////
+Model feature_size: 68, target_size: 10
+Training score:  0.9999990664563507
+Cross validation score: 0.889007739868173
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 2
+Training score:  0.999999443646409
+Cross validation score: 0.9583657465909631
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 3
+Training score:  0.999999512603452
+Cross validation score: 0.9464824127856316
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 4
+Training score:  0.9999994879541803
+Cross validation score: 0.9385419827370485
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 5
+Training score:  0.9999993799579571
+Cross validation score: 0.9303499842635109
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 6
+Training score:  0.9999993495697278
+Cross validation score: 0.9197790337910735
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 7
+Training score:  0.9999993715333881
+Cross validation score: 0.9212517631384561
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 8
+Training score:  0.9999992956579487
+Cross validation score: 0.9170747100122634
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 9
+Training score:  0.9999992861499322
+Cross validation score: 0.9135244839355181
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 10
+Training score:  0.9999991824117739
+Cross validation score: 0.9045212372542683
+/////////////////////////////////////////////////
+Model feature_size: 72, target_size: 11
+Training score:  0.9999991693058093
+Cross validation score: 0.8952557841490445
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 2
+Training score:  0.9999995964517212
+Cross validation score: 0.9631119303865046
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 3
+Training score:  0.9999995814772039
+Cross validation score: 0.9473699950459009
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 4
+Training score:  0.9999994982623632
+Cross validation score: 0.941218570428082
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 5
+Training score:  0.9999994644542195
+Cross validation score: 0.9289505757189438
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 6
+Training score:  0.9999994857722898
+Cross validation score: 0.9299168478100409
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 7
+Training score:  0.9999994309074133
+Cross validation score: 0.9126379856083929
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 8
+Training score:  0.9999994121840323
+Cross validation score: 0.9219118268791067
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 9
+Training score:  0.9999994035920164
+Cross validation score: 0.908438769997919
+/////////////////////////////////////////////////
+Model feature_size: 76, target_size: 10
+Training score:  0.9999993432551451
+Cross validation score: 0.8988687521137573
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 2
+Training score:  0.9999996530851784
+Cross validation score: 0.9588244793493819
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 3
+Training score:  0.9999996109107568
+Cross validation score: 0.9515491902562606
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 4
+Training score:  0.9999995918228214
+Cross validation score: 0.94147165008673
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 5
+Training score:  0.9999995562047678
+Cross validation score: 0.939431948918689
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 6
+Training score:  0.9999995317062873
+Cross validation score: 0.9254604037090645
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 7
+Training score:  0.9999995078497232
+Cross validation score: 0.923978063894409
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 8
+Training score:  0.9999994989907857
+Cross validation score: 0.9180214943132115
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 9
+Training score:  0.9999994772211165
+Cross validation score: 0.9103035072961428
+/////////////////////////////////////////////////
+Model feature_size: 80, target_size: 10
+Training score:  0.999999446263353
+Cross validation score: 0.8992320199337032
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 2
+Training score:  0.9999996270032844
+Cross validation score: 0.9615471362330734
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 3
+Training score:  0.9999996587775232
+Cross validation score: 0.9491157297340523
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 4
+Training score:  0.9999996158857275
+Cross validation score: 0.9499107137496349
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 5
+Training score:  0.9999996201447795
+Cross validation score: 0.9338891638151331
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 6
+Training score:  0.9999995915174793
+Cross validation score: 0.9319181688774041
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 7
+Training score:  0.999999571589011
+Cross validation score: 0.9167371777290585
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 8
+Training score:  0.9999995402744479
+Cross validation score: 0.9095461425705699
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 9
+Training score:  0.9999995303851323
+Cross validation score: 0.9088265912109605
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 10
+Training score:  0.9999995008518766
+Cross validation score: 0.9081913866427506
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 11
+Training score:  0.9999994602502293
+Cross validation score: 0.9056123486432841
+/////////////////////////////////////////////////
+Model feature_size: 84, target_size: 12
+Training score:  0.9999994490460216
+Cross validation score: 0.8903085231990125
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 2
+Training score:  0.999999710291304
+Cross validation score: 0.9612553585402512
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 3
+Training score:  0.9999997030095286
+Cross validation score: 0.9501623339743119
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 4
+Training score:  0.9999996754570886
+Cross validation score: 0.9497496791540354
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 5
+Training score:  0.9999996738662521
+Cross validation score: 0.9313140284990963
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 6
+Training score:  0.9999996583284764
+Cross validation score: 0.9226898426852771
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 7
+Training score:  0.9999996297082916
+Cross validation score: 0.9228939867840359
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 8
+Training score:  0.9999996187236698
+Cross validation score: 0.9153904547302837
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 9
+Training score:  0.9999995907699579
+Cross validation score: 0.9052428671862683
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 10
+Training score:  0.9999995627360739
+Cross validation score: 0.9106729514147833
+/////////////////////////////////////////////////
+Model feature_size: 88, target_size: 11
+Training score:  0.9999995697856696
+Cross validation score: 0.8994848625106514
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 2
+Training score:  0.9999997553734539
+Cross validation score: 0.9587351100268563
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 3
+Training score:  0.9999997495905758
+Cross validation score: 0.9557002826643938
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 4
+Training score:  0.9999997387858949
+Cross validation score: 0.9432952232630174
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 5
+Training score:  0.9999996961324283
+Cross validation score: 0.9323406072429877
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 6
+Training score:  0.9999996620719512
+Cross validation score: 0.9340460989258874
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 7
+Training score:  0.9999996818777938
+Cross validation score: 0.9274524764139459
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 8
+Training score:  0.9999996262675912
+Cross validation score: 0.9144721966034851
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 9
+Training score:  0.9999996411685728
+Cross validation score: 0.9122884724367051
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 10
+Training score:  0.9999996233683494
+Cross validation score: 0.906334719508919
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 11
+Training score:  0.99999960206978
+Cross validation score: 0.9004831700830433
+/////////////////////////////////////////////////
+Model feature_size: 92, target_size: 12
+Training score:  0.9999995945798607
+Cross validation score: 0.8907982528437938
